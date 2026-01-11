@@ -1,0 +1,10 @@
+stable-baselines3[extra]
+gymnasium
+vizdoom
+shimmy>=0.2.1
+moviepy
+opencv-python
+torch
+matplotlib
+pandas
+numpy

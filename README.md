@@ -54,17 +54,15 @@ The results were pretty interesting.
 
 ###### Learning Curves
 
+![Learning Curve](learning_curve.png)
 
-
-![](D:\ML\Doom\learning_curve.png)
-
-Here is the training process of Custom CNN on `basic.cfg` over time. You can see how the agent started out clueless and eventually figured out the game mechanics. Eventually the reward stablizes.
+This is the training process of Custom CNN on `basic.cfg` over time. You can see how the agent started out clueless and eventually figured out the game mechanics. Eventually the reward stablizes.
 
 
 
 ###### Final Comparison
 
-![](D:\ML\Doom\comparison_chart.png)
+![Comparison Chart](comparison_chart.png)
 
 
 

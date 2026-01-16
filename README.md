@@ -54,7 +54,7 @@ The results were pretty interesting.
 
 ###### Learning Curves
 
-![Learning Curve](learning_curve.png)
+![Learning Curve](assets/learning_curve.png)
 
 This is the training process of Custom CNN on `basic.cfg` over time. You can see how the agent started out clueless and eventually figured out the game mechanics. Eventually the reward stablizes.
 
@@ -62,7 +62,7 @@ This is the training process of Custom CNN on `basic.cfg` over time. You can see
 
 ###### Final Comparison
 
-![Comparison Chart](comparison_chart.png)
+![Comparison Chart](assets/comparison_chart.png)
 
 
 
